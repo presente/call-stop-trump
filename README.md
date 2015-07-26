@@ -1,1 +1,1 @@
-Call CHC for Net Neutrality
+Call Democratic senators and tell them to defend sanctuary cities.
