@@ -1,5 +1,5 @@
 {
-  "name": "call-stop-trump",
+  "name": "call-chc-nn",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "call-stop-trump"
+    "url": "call-chc-nn"
   },
   "author": "Josh Levinger <josh@spacedog.xyz> (http://spacedog.xyz/)",
   "license": "MIT",
