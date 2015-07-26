@@ -1,0 +1,28 @@
+.partner-logos {
+  text-align: center;
+}
+img.partner-logo {
+  width:100%;
+  max-width:300px;
+}
+
+#script {
+  font-size: 1.3em;
+}
+#script ul {
+  text-align: left;
+  list-style-type: circle;
+  padding-top: 20px;
+}
+#script ul li {
+  margin-bottom: 10px;
+}
+
+.sp {
+  display: inline-block;
+}
+
+/* override font-family */
+#content h1, .actionkit #content h2, .actionkit input[type=submit] {
+  font-family: 'museo-sans' !important;
+}
