@@ -56,12 +56,12 @@ jQuery( document ).ready(function( $ ) {
         }
 
         var data = {
-            campaignId: 'chc-nn',
+            campaignId: 'stop-trump-act',
             userPhone: validatePhone(phone)
         };
 
         $.ajax({
-            url: 'http://api.call4netfreedom.org/create',
+            url: 'http://call-presente.herokuapp.com/create',
             type: "get",
             dataType: "json",
             data: data,
